@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="its-my-life"/>
   <readme>
     <ru>24d6935c723eeeface887b2066f4912dd5e8d9e1a4f554052dd983b1cc7222ce</ru>
@@ -11,100 +11,78 @@
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>minor</scale>
-    <bpm>160</bpm>
+    <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life_0.mp4" size="208530" type="video/mp4">941f8d3e027455cc6a5c945c18cb44b70cec5a0e843e6be8d287f1b33765d607</video>
+    <tonalities>5</tonalities>
+    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
-      <note number="1" values="1" ticks="48" durationTicks="88" ppq="96" velocity="0.479"/>
-      <note number="2" values="1" ticks="144" durationTicks="94" ppq="96" velocity="0.514"/>
-      <note number="3" values="1" ticks="295" durationTicks="42" ppq="96" velocity="0.499"/>
-      <note number="4" values="3" ticks="341" durationTicks="37" ppq="96" velocity="0.499"/>
-      <note number="5" values="5" ticks="384" durationTicks="36" ppq="96" velocity="0.496"/>
-      <note number="6" values="6" ticks="436" durationTicks="191" ppq="96" velocity="0.491"/>
-      <note number="7" values="5" ticks="642" durationTicks="159" ppq="96" velocity="0.524"/>
+      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
+      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="2">
     <scale>minor</scale>
-    <bpm>160</bpm>
+    <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life1_0.mp4" size="188289" type="video/mp4">ef3de1a5fbd76c340e54c1b6d51613aed9abbf194603b6be291f1e1e491bea7a</video>
+    <tonalities>3,5</tonalities>
+    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
-      <note number="1" values="1" ticks="11" durationTicks="88" ppq="96" velocity="0.879"/>
-      <note number="2" values="1" ticks="110" durationTicks="94" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="261" durationTicks="41" ppq="96" velocity="0.536"/>
-      <note number="4" values="3" ticks="307" durationTicks="39" ppq="96" velocity="0.571"/>
-      <note number="5" values="5" ticks="359" durationTicks="44" ppq="96" velocity="0.636"/>
-      <note number="6" values="6" ticks="407" durationTicks="185" ppq="96" velocity="0.654"/>
-      <note number="7" values="5" ticks="598" durationTicks="171" ppq="96" velocity="0.541"/>
+      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
+      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="3">
     <scale>minor</scale>
-    <bpm>160</bpm>
+    <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life2_0.mp4" size="204178" type="video/mp4">20f905f5ca810a83171db39ebed357944ba9f3f6199f8b5cf3f378af522a0751</video>
+    <tonalities>3,5</tonalities>
+    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">20f905f5ca810a83171db39ebed357944ba9f3f6199f8b5cf3f378af522a0751</video>
     <notes>
-      <note number="1" values="1" ticks="13" durationTicks="83" ppq="96" velocity="0.797"/>
-      <note number="2" values="1" ticks="110" durationTicks="107" ppq="96" velocity="0.764"/>
-      <note number="3" values="1" ticks="258" durationTicks="46" ppq="96" velocity="0.506"/>
-      <note number="4" values="3" ticks="312" durationTicks="49" ppq="96" velocity="0.524"/>
-      <note number="5" values="5" ticks="362" durationTicks="47" ppq="96" velocity="0.546"/>
-      <note number="6" values="6" ticks="412" durationTicks="185" ppq="96" velocity="0.654"/>
-      <note number="7" values="5" ticks="610" durationTicks="168" ppq="96" velocity="0.561"/>
+      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
+      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="4">
     <scale>minor</scale>
-    <bpm>160</bpm>
+    <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life3_0.mp4" size="211045" type="video/mp4">82bc170bc99b2a98d5ce24436dba693572d04e5d6d68fe1886dc6f6f53197462</video>
+    <tonalities>3,5</tonalities>
+    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">82bc170bc99b2a98d5ce24436dba693572d04e5d6d68fe1886dc6f6f53197462</video>
     <notes>
-      <note number="1" values="1" ticks="5" durationTicks="88" ppq="96" velocity="0.737"/>
-      <note number="2" values="1" ticks="104" durationTicks="115" ppq="96" velocity="0.734"/>
-      <note number="3" values="18" ticks="241" durationTicks="46" ppq="96" velocity="0.531"/>
-      <note number="4" values="7" ticks="299" durationTicks="38" ppq="96" velocity="0.571"/>
-      <note number="5" values="6" ticks="339" durationTicks="59" ppq="96" velocity="0.579"/>
-      <note number="6" values="6" ticks="402" durationTicks="187" ppq="96" velocity="0.654"/>
-      <note number="7" values="5" ticks="593" durationTicks="168" ppq="96" velocity="0.574"/>
-    </notes>
-  </exercise>
-  <exercise number="5">
-    <scale>minor</scale>
-    <bpm>160</bpm>
-    <lowestNote>5</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life4_0.mp4" size="370258" type="video/mp4">e9f988f3171d2bde97142828d3a377ecec4c2c7cf4e9e9a100497c34a32c2d77</video>
-    <notes>
-      <note number="1" values="38" ticks="8" durationTicks="88" ppq="96" velocity="0.879"/>
-      <note number="2" values="58" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
-      <note number="3" values="58" ticks="195" durationTicks="46" ppq="96" velocity="0.701"/>
-      <note number="4" values="38" ticks="385" durationTicks="67" ppq="96" velocity="0.704"/>
-      <note number="5" values="38" ticks="456" durationTicks="93" ppq="96" velocity="0.641"/>
-      <note number="6" values="38" ticks="553" durationTicks="92" ppq="96" velocity="0.654"/>
-      <note number="7" values="28" ticks="649" durationTicks="96" ppq="96" velocity="0.759"/>
-      <note number="8" values="18" ticks="744" durationTicks="95" ppq="96" velocity="0.921"/>
-      <note number="9" values="7" ticks="840" durationTicks="95" ppq="96" velocity="0.921"/>
-    </notes>
-  </exercise>
-  <exercise number="6">
-    <scale>minor</scale>
-    <bpm>160</bpm>
-    <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="its_my_life5_0.mp4" size="269236" type="video/mp4">7415d91fc959926517301e93088977038f93c323dd6c3874cebe921087de2ee1</video>
-    <notes>
-      <note number="1" values="5" ticks="95" durationTicks="88" ppq="96" velocity="0.879"/>
-      <note number="2" values="5" ticks="187" durationTicks="94" ppq="96" velocity="0.872"/>
-      <note number="3" values="5" ticks="284" durationTicks="46" ppq="96" velocity="0.701"/>
-      <note number="4" values="4" ticks="386" durationTicks="67" ppq="96" velocity="0.704"/>
-      <note number="5" values="6" ticks="465" durationTicks="93" ppq="96" velocity="0.641"/>
-      <note number="6" values="5" ticks="601" durationTicks="58" ppq="96" velocity="0.654"/>
-      <note number="7" values="3" ticks="670" durationTicks="176" ppq="96" velocity="0.759"/>
+      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
+      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
 </level>
