@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="its-my-life"/>
   <readme>
     <ru>24d6935c723eeeface887b2066f4912dd5e8d9e1a4f554052dd983b1cc7222ce</ru>
@@ -17,10 +17,10 @@
     <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
-      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
-      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
-      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="2" values="2" ticks="93" durationTicks="27" ppq="96" velocity="0.747"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.799"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="4" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
       <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
       <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
       <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
@@ -33,7 +33,6 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3,5</tonalities>
-    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
@@ -52,7 +51,6 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3,5</tonalities>
-    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">20f905f5ca810a83171db39ebed357944ba9f3f6199f8b5cf3f378af522a0751</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
@@ -71,13 +69,12 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3,5</tonalities>
-    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">82bc170bc99b2a98d5ce24436dba693572d04e5d6d68fe1886dc6f6f53197462</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
-      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
-      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
-      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="2" values="2" ticks="93" durationTicks="27" ppq="96" velocity="0.747"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.799"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="1" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
       <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
       <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
       <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
