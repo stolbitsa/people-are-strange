@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>24d6935c723eeeface887b2066f4912dd5e8d9e1a4f554052dd983b1cc7222ce</ru>
@@ -19,13 +19,12 @@
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="27" ppq="96" velocity="0.747"/>
       <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.799"/>
-      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.859"/>
-      <note number="5" values="4" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
-      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
-      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
-      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
-      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
-      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="4" values="3" ticks="178" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="4" ticks="408" durationTicks="41" ppq="96" velocity="0.496"/>
+      <note number="6" values="5" ticks="467" durationTicks="34" ppq="96" velocity="0.491"/>
+      <note number="7" values="4" ticks="514" durationTicks="44" ppq="96" velocity="0.524"/>
+      <note number="8" values="3" ticks="581" durationTicks="51" ppq="96" velocity="0.524"/>
+      <note number="9" values="1" ticks="673" durationTicks="42" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -45,6 +44,8 @@
       <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
       <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
       <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="3">
