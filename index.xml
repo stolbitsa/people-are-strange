@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>fe1fd89e1045adba9d44d06266e1ce8137fb1aeb65c5f7765f3f82cf5b38309d</ru>
@@ -31,20 +31,18 @@
     <scale>minor</scale>
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>3,5</tonalities>
+    <tonalities>5</tonalities>
+    <video name="people-are-strange1_0_0.mp4" size="482952" type="video/mp4">2f24cda820445a15ca1ee0de4980e5146d3b90b3b1e40027f2491db5747c802d</video>
     <notes>
-      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
-      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
-      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
-      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
-      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
-      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
-      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
-      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
-      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.524"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="1" values="4" ticks="43" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="2" values="5" ticks="96" durationTicks="41" ppq="96" velocity="0.872"/>
+      <note number="3" values="4" ticks="143" durationTicks="37" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="208" durationTicks="47" ppq="96" velocity="0.834"/>
+      <note number="5" values="1" ticks="299" durationTicks="85" ppq="96" velocity="0.762"/>
+      <note number="6" values="2" ticks="445" durationTicks="51" ppq="96" velocity="0.797"/>
+      <note number="7" values="3" ticks="505" durationTicks="28" ppq="96" velocity="0.709"/>
+      <note number="8" values="2" ticks="541" durationTicks="46" ppq="96" velocity="0.757"/>
+      <note number="9" values="1" ticks="601" durationTicks="105" ppq="96" velocity="0.867"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -81,6 +79,8 @@
       <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
       <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
       <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
 </level>
