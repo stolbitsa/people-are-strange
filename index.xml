@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>fe1fd89e1045adba9d44d06266e1ce8137fb1aeb65c5f7765f3f82cf5b38309d</ru>
@@ -14,6 +14,7 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
+    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="27" ppq="96" velocity="0.747"/>
