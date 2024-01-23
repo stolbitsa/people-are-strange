@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
-    <ru>24d6935c723eeeface887b2066f4912dd5e8d9e1a4f554052dd983b1cc7222ce</ru>
-    <en>f71041217c0793232d515ab62ad024d82a8aa2c53af8d513185fde1386014910</en>
+    <ru>fe1fd89e1045adba9d44d06266e1ce8137fb1aeb65c5f7765f3f82cf5b38309d</ru>
+    <en>5748d4dab3ab4853e78fcaca88fb3e3cd383994e232d5c644fec3eea3eebd0ff</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,6 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="people-are-strange0_0.mp4" size="448196" type="video/mp4">17f7825dd52128b9693c30b84b13cc9817ad6efe23af3d98f4126e7dea9b8dfc</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="27" ppq="96" velocity="0.747"/>
@@ -32,7 +31,6 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3,5</tonalities>
-    <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
     <notes>
       <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
       <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
