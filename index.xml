@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>fe1fd89e1045adba9d44d06266e1ce8137fb1aeb65c5f7765f3f82cf5b38309d</ru>
@@ -71,17 +71,37 @@
     <tonalities>5</tonalities>
     <video name="people-are-strange3_0_0.mp4" size="473275" type="video/mp4">0ec35bf696b076579f29fd82131cc47edc09d3f53df0902f2409a1451b743242</video>
     <notes>
-      <note number="1" values="4" ticks="54" durationTicks="53" ppq="96" velocity="0.859"/>
-      <note number="2" values="5" ticks="124" durationTicks="27" ppq="96" velocity="0.747"/>
-      <note number="3" values="5" ticks="162" durationTicks="39" ppq="96" velocity="0.799"/>
-      <note number="4" values="5" ticks="226" durationTicks="47" ppq="96" velocity="0.859"/>
-      <note number="5" values="5" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
-      <note number="6" values="4" ticks="469" durationTicks="40" ppq="96" velocity="0.491"/>
-      <note number="7" values="4" ticks="507" durationTicks="25" ppq="96" velocity="0.524"/>
-      <note number="8" values="5" ticks="564" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="1" values="4" ticks="48" durationTicks="53" ppq="96" velocity="0.859"/>
+      <note number="2" values="5" ticks="129" durationTicks="56" ppq="96" velocity="0.747"/>
+      <note number="3" values="5" ticks="216" durationTicks="49" ppq="96" velocity="0.799"/>
+      <note number="4" values="5" ticks="300" durationTicks="59" ppq="96" velocity="0.859"/>
+      <note number="5" values="5" ticks="362" durationTicks="91" ppq="96" velocity="0.842"/>
+      <note number="6" values="4" ticks="480" durationTicks="68" ppq="96" velocity="0.857"/>
+      <note number="7" values="4" ticks="561" durationTicks="38" ppq="96" velocity="0.832"/>
+      <note number="8" values="5" ticks="608" durationTicks="66" ppq="96" velocity="0.864"/>
     </notes>
   </exercise>
   <exercise number="5">
+    <scale>minor</scale>
+    <bpm>120</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>5</tonalities>
+    <notes>
+      <note number="1" values="1" ticks="54" durationTicks="53" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="124" durationTicks="27" ppq="96" velocity="0.747"/>
+      <note number="3" values="1" ticks="162" durationTicks="39" ppq="96" velocity="0.799"/>
+      <note number="4" values="3" ticks="226" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="1" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="469" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="507" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="564" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.524"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
     <scale>minor</scale>
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
