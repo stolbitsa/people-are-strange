@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>fe1fd89e1045adba9d44d06266e1ce8137fb1aeb65c5f7765f3f82cf5b38309d</ru>
@@ -52,16 +52,16 @@
     <tonalities>5</tonalities>
     <video name="people-are-strange2_0_0.mp4" size="444704" type="video/mp4">26eaf094573059fdb22e399ce4da833dbf984dc11f8c511619acb7c439a335e1</video>
     <notes>
-      <note number="1" values="1" ticks="62" durationTicks="40" ppq="96" velocity="0.859"/>
-      <note number="2" values="2" ticks="110" durationTicks="26" ppq="96" velocity="0.829"/>
-      <note number="3" values="1" ticks="144" durationTicks="41" ppq="96" velocity="0.859"/>
-      <note number="4" values="3" ticks="219" durationTicks="63" ppq="96" velocity="0.814"/>
-      <note number="5" values="1" ticks="292" durationTicks="92" ppq="96" velocity="0.827"/>
-      <note number="6" values="4" ticks="439" durationTicks="37" ppq="96" velocity="0.839"/>
-      <note number="7" values="5" ticks="497" durationTicks="30" ppq="96" velocity="0.832"/>
-      <note number="8" values="4" ticks="540" durationTicks="26" ppq="96" velocity="0.847"/>
-      <note number="9" values="3" ticks="602" durationTicks="67" ppq="96" velocity="0.819"/>
-      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.842"/>
+      <note number="1" values="1" ticks="24" durationTicks="68" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="93" durationTicks="26" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="121" durationTicks="39" ppq="96" velocity="0.859"/>
+      <note number="4" values="3" ticks="174" durationTicks="47" ppq="96" velocity="0.499"/>
+      <note number="5" values="1" ticks="227" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="412" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="455" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="482" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -71,14 +71,14 @@
     <tonalities>5</tonalities>
     <video name="people-are-strange3_0_0.mp4" size="473275" type="video/mp4">0ec35bf696b076579f29fd82131cc47edc09d3f53df0902f2409a1451b743242</video>
     <notes>
-      <note number="1" values="4" ticks="47" durationTicks="90" ppq="96" velocity="0.859"/>
-      <note number="2" values="5" ticks="166" durationTicks="47" ppq="96" velocity="0.827"/>
-      <note number="3" values="5" ticks="226" durationTicks="39" ppq="96" velocity="0.839"/>
-      <note number="4" values="5" ticks="316" durationTicks="40" ppq="96" velocity="0.859"/>
-      <note number="5" values="5" ticks="364" durationTicks="39" ppq="96" velocity="0.877"/>
-      <note number="6" values="4" ticks="503" durationTicks="31" ppq="96" velocity="0.849"/>
-      <note number="7" values="4" ticks="541" durationTicks="37" ppq="96" velocity="0.842"/>
-      <note number="8" values="5" ticks="595" durationTicks="71" ppq="96" velocity="0.872"/>
+      <note number="1" values="4" ticks="54" durationTicks="53" ppq="96" velocity="0.859"/>
+      <note number="2" values="5" ticks="124" durationTicks="27" ppq="96" velocity="0.747"/>
+      <note number="3" values="5" ticks="162" durationTicks="39" ppq="96" velocity="0.799"/>
+      <note number="4" values="5" ticks="226" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="5" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="469" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="4" ticks="507" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="5" ticks="564" durationTicks="22" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -86,16 +86,19 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="people-are-strange3_0_0.mp4" size="473275" type="video/mp4">0ec35bf696b076579f29fd82131cc47edc09d3f53df0902f2409a1451b743242</video>
     <notes>
-      <note number="1" values="4" ticks="47" durationTicks="90" ppq="96" velocity="0.859"/>
-      <note number="2" values="5" ticks="166" durationTicks="47" ppq="96" velocity="0.827"/>
-      <note number="3" values="5" ticks="226" durationTicks="39" ppq="96" velocity="0.839"/>
-      <note number="4" values="5" ticks="316" durationTicks="40" ppq="96" velocity="0.859"/>
-      <note number="5" values="5" ticks="364" durationTicks="39" ppq="96" velocity="0.877"/>
-      <note number="6" values="4" ticks="503" durationTicks="31" ppq="96" velocity="0.849"/>
-      <note number="7" values="4" ticks="541" durationTicks="37" ppq="96" velocity="0.842"/>
-      <note number="8" values="5" ticks="595" durationTicks="71" ppq="96" velocity="0.872"/>
+      <note number="1" values="1" ticks="54" durationTicks="53" ppq="96" velocity="0.859"/>
+      <note number="2" values="2" ticks="124" durationTicks="27" ppq="96" velocity="0.747"/>
+      <note number="3" values="1" ticks="162" durationTicks="39" ppq="96" velocity="0.799"/>
+      <note number="4" values="3" ticks="226" durationTicks="47" ppq="96" velocity="0.859"/>
+      <note number="5" values="1" ticks="412" durationTicks="39" ppq="96" velocity="0.496"/>
+      <note number="6" values="4" ticks="469" durationTicks="40" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="507" durationTicks="25" ppq="96" velocity="0.524"/>
+      <note number="8" values="4" ticks="564" durationTicks="22" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="587" durationTicks="67" ppq="96" velocity="0.524"/>
+      <note number="10" values="1" ticks="682" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.524"/>
+      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
 </level>
