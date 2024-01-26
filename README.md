@@ -20,6 +20,8 @@ Source: https://en.wikipedia.org/wiki/People_Are_Strange
 
 **«People Are Strange»** — песня группы `The Doors`, выпущенная в качестве сингла в сентябре 1967 года. Она вошла в их второй альбом `Strange Days`, который также был выпущен в сентябре 1967 года. Песня поднялась до 12-й позиции в американском чарте Billboard Hot 100 и вошла в десятку лучших в чарте Cash Box. Песня была написана **Робби Кригером** и **Джимом Моррисоном**.
 
+Источник: https://ru.wikipedia.org/wiki/People_Are_Strange
+
 ![](https://github.com/stolbitsa/its-my-life/assets/149964365/90c75e02-95c7-4582-aa14-4bb07c2bbd9b)
 ### Jim Morrison
 
