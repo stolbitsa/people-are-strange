@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>people-are-strange</repo>
-  <version>v1.0.29</version>
+  <version>v1.0.30</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
-    <ru>661b3cb8ea213c8b6e96e7d2ebc16937a23a3db8980141ab9356bcd5a9fb3e96</ru>
-    <en>11114914dc01247c37a78e88a259a6e8ceafe5f4ac3341cd23f6faddb9ef1ac4</en>
+    <ru>3c9ee74515d0afa57b269b4fcf4bf20cb8902b5e02b737fcf98a50c8ff088cda</ru>
+    <en>c268e9df94ecf7017adeebb6bd0303eadcc190fb849576d42602c83ac959dd83</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
